@@ -1,0 +1,16 @@
+work
+school
+college
+university
+home
+house
+book
+tower
+hostel
+field
+table
+computer
+laptop
+keyboard
+mouse
+light
