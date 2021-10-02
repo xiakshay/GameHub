@@ -28,9 +28,8 @@ This is on multi game system using `c++`
 ---
 ### Used Language 
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="120" height="140" />
----
-##  Screenchorts  of this game
----
+
+> Screenshorts 
 
 ### Home screen
 ------------------------------------------------
